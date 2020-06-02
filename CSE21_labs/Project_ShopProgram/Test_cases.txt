@@ -1,0 +1,50 @@
+1. Test case for: I - 1, I - 2, I - 3, I - 4.
+Number of items: 1 and 3
+name: qwe
+price: 32
+special discount: 2
+
+name: qwe1
+name: qwe2
+name: qwe3
+price: 32
+price: 16
+price: 8
+discount: 1
+discount: 2
+discount: 3
+
+Additional discount threshold: 100
+Additional discount threshold: 0
+Discount rate: 0.4
+
+2. Test case for: II - 1, II - 2, II - 3.
+Choose buy function before setting up the shop.
+amount: 0
+list
+buy again
+amount: 999
+list
+
+3. Test case for: III - 1, III - 2, III - 3.
+amount of items: 1 and 3
+prices: 32
+buy 0
+list
+buy 10
+list
+prices: 32, 16, 8
+list
+buy 1, 0, 10
+list
+
+
+4. Test case for: IV - 1, IV - 2, IV - 3, IV - 4.
+4th function before setting up
+set up with 3 items
+4th function before buying anything
+buy (0, 5, 999)
+list
+4th function
+rerun
+4th function

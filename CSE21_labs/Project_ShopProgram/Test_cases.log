@@ -1,0 +1,315 @@
+1. Test case for I - 1, I - 2, I - 3, I - 4
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 1
+
+Please enter the number of items to setup shop: 1
+Enter the name of the 1st product: qwe
+Enter the per package price of qwe: 32
+Enter the number of packages ('x') to qualify for Special Discount (buy 'x' get 1 free) for qwe, or 0 if no Special Discount offered: 2
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 100
+Enter the Additional Discount rate (e.g., 0.1 for 10%): 0.4
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 1
+
+Please enter the number of items to setup shop: 3
+Enter the name of the 1st product: qwe1
+Enter the per package price of qwe1: 32
+Enter the number of packages ('x') to qualify for Special Discount (buy 'x' get 1 free) for qwe1, or 0 if no Special Discount offered: 1
+Enter the name of the 2nd product: qwe2
+Enter the per package price of qwe2: 16
+Enter the number of packages ('x') to qualify for Special Discount (buy 'x' get 1 free) for qwe2, or 0 if no Special Discount offered: 2
+Enter the name of the 3rd product: qwe3
+Enter the per package price of qwe3: 8
+Enter the number of packages ('x') to qualify for Special Discount (buy 'x' get 1 free) for qwe3, or 0 if no Special Discount offered: 3
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 0
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want:
+
+
+2.Test case for II - 1, II - 2, II - 3
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 2
+
+Shop is not set up yet!
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 1
+
+Please enter the number of items to setup shop: 1
+Enter the name of the 1st product: qwe
+Enter the per package price of qwe: 32
+Enter the number of packages ('x') to qualify for Special Discount (buy 'x' get 1 free) for qwe, or 0 if no Special Discount offered: 0
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 0
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 2
+
+Enter the number of qwe packages to buy: 0
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 3
+
+No items were purchased.
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 2
+
+Enter the number of qwe packages to buy: 999
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 3
+
+999 packages of qwe @ $32.00 per pkg = $31968.00
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want:
+
+
+3. Test case for III - 1, III - 2, III - 3
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 1
+
+Please enter the number of items to setup shop: 1
+Enter the name of the 1st product: qwe
+Enter the per package price of qwe: 32
+Enter the number of packages ('x') to qualify for Special Discount (buy 'x' get 1 free) for qwe, or 0 if no Special Discount offered: 0
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 0
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 2
+
+Enter the number of qwe packages to buy: 0
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 3
+
+No items were purchased.
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 2
+
+Enter the number of qwe packages to buy: 10
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 3
+
+10 packages of qwe @ $32.00 per pkg = $320.00
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 1
+
+Please enter the number of items to setup shop: 3
+Enter the name of the 1st product: qwe1
+Enter the per package price of qwe1: 32
+Enter the number of packages ('x') to qualify for Special Discount (buy 'x' get 1 free) for qwe1, or 0 if no Special Discount offered: 0
+Enter the name of the 2nd product: qwe2
+Enter the per package price of qwe2: 16
+Enter the number of packages ('x') to qualify for Special Discount (buy 'x' get 1 free) for qwe2, or 0 if no Special Discount offered: 0
+Enter the name of the 3rd product: qwe3
+Enter the per package price of qwe3: 8
+Enter the number of packages ('x') to qualify for Special Discount (buy 'x' get 1 free) for qwe3, or 0 if no Special Discount offered: 0
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 0
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 3
+
+You have not bought anything!
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 2
+
+Enter the number of qwe1 packages to buy: 1
+Enter the number of qwe2 packages to buy: 0
+Enter the number of qwe3 packages to buy: 10
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 3
+
+1 package of qwe1 @ $32.00 per pkg = $32.00
+10 packages of qwe3 @ $8.00 per pkg = $80.00
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want:
+
+4. Test cases for: IV - 1, IV - 2, IV - 3, IV - 4
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 4
+
+Shop is not set up yet!
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 1
+
+Please enter the number of items to setup shop: 3
+Enter the name of the 1st product: qwe1
+Enter the per package price of qwe1: 32
+Enter the number of packages ('x') to qualify for Special Discount (buy 'x' get 1 free) for qwe1, or 0 if no Special Discount offered: 3
+Enter the name of the 2nd product: qwe2
+Enter the per package price of qwe2: 16
+Enter the number of packages ('x') to qualify for Special Discount (buy 'x' get 1 free) for qwe2, or 0 if no Special Discount offered: 4
+Enter the name of the 3rd product: qwe3
+Enter the per package price of qwe3: 1
+Enter the number of packages ('x') to qualify for Special Discount (buy 'x' get 1 free) for qwe3, or 0 if no Special Discount offered: 5
+
+Enter the dollar amount to qualify for Additional Discount (or 0 if none offered): 100
+Enter the Additional Discount rate (e.g., 0.1 for 10%): 0.5
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 4
+
+You have not bought anything!
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 2
+
+Enter the number of qwe1 packages to buy: 0
+Enter the number of qwe2 packages to buy: 5
+Enter the number of qwe3 packages to buy: 999
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 3
+
+5 packages of qwe2 @ $16.00 per pkg = $80.00
+999 packages of qwe3 @ $1.00 per pkg = $999.00
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 4
+
+Original Sub Total:                $1079.00
+Special Discounts:                -$182.00
+New Sub Total:                     $897.00
+Additional 50% Discount:          -$448.50
+Final Sub Total:                   $448.50
+
+Thanks for coming!
+
+-------------------------------------------------
+Would you like to re-run (1 for yes, 0 for no)? 1
+-------------------------------------------------
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want: 4
+
+Shop is not set up yet!
+
+This program supports 4 functions:
+     1. Set Up Shop
+     2. Buy
+     3. List Items
+     4. Checkout
+Please choose the function you want:

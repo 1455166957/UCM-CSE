@@ -1,0 +1,6 @@
+1. 7 variables are used.
+2. 2 types of variables are used.
+3. I used double for decimal numbers and I used byte for storing 0 or something else, so user decides to print his check or not.
+4. println goes to next line after printing. print does not.
+5. I did use both of them. "print" for statements that are followed by user inputs, "println" for all other cases.
+6. It uses built-in method in Java which prints statement and then moves to next line.

@@ -1,0 +1,8 @@
+1) Didn't copy anything. For the most part it was Lab03.
+2) Copied a lot, but also modified a lot.
+3) Changed everything. New was only discounts part.
+4) i. Doesn't work
+   ii. Doesn't work
+   iii. Does work
+   iv. Doesn't work
+   v. Doesn't work

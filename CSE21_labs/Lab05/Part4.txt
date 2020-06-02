@@ -1,0 +1,10 @@
+1) Long
+2) arr.length should be greater that max.
+3) Long
+4) To get rid of values from previous method.
+5) for the 1st fib method I used int. For the second one long (because of the array type).
+6) Because we need to know previous two values to get the current one.
+7) Long. int is not enough.
+8) Because we need to set the first value to 1.
+9) Because int isn't enough to store factorials.
+10) It doesn't work because array with length of 10 isn't enough. It's possible to fix it with 'if' statement that prevents using non existing array slot.

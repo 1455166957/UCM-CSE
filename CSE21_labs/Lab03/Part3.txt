@@ -1,0 +1,19 @@
+1. a) it'll say that it cannot reassign the final value.
+   b) "names" is string, "prices" is double, "amounts" is double.
+   c) 13 entries for "prices", 10 for "names", 12 for "amounts"
+   d) names[3] = 1; //is invalid (cannot assign integer to a string type)
+   e)   Cheese A10
+	Cheese A10
+        Cheese 6510
+	Cheese K
+	Cheese 75
+   f) i = 3 because the first 3 elements are already assigned.
+
+2. Copied a lot of tiny fragments, because then I understand how should I fit it into my code.
+
+3. The whole thing.
+
+4. 6 loops
+
+5. 5 for loops, 1 while loop
+
