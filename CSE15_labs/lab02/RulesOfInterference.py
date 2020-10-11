@@ -1,0 +1,28 @@
+from logic import TruthTable
+
+modusPonens = TruthTable(['p', 'q'], ['((p -> q) and p) -> q'])
+modusTollens = TruthTable(['p', 'q'], ['(-q and (p -> q)) -> -p'])
+hypoSyllogism = TruthTable(['p', 'q', 'r'], ['((p -> q) and (q -> r)) -> (p -> r)'])
+disSyllogism = TruthTable(['p', 'q'], ['((p or q) and -p) -> q'])
+addition = TruthTable(['p', 'q'], ['p -> (p or q)'])
+simplification = TruthTable(['p', 'q'], ['(p and q) -> p'])
+conjunction = TruthTable(['p', 'q'], ['((p) and (q)) -> (p and q)'])
+resolution = TruthTable(['p', 'q', 'r'], ['((p or q) and (-p or r)) -> (q or r)'])
+
+
+print("Modus Ponens verification:")
+modusPonens.display()
+print("\nModus Tollens verification:")
+modusTollens.display()
+print("\nHypothetical Syllogism verification:")
+hypoSyllogism.display()
+print("\nDisjunctive Syllogism verification:")
+disSyllogism.display()
+print("\nAddition verification:")
+addition.display()
+print("\nSimplification verification:")
+simplification.display()
+print("\nConjunction verification:")
+conjunction.display()
+print("\nResolution verification:")
+resolution.display()
